@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">About-Me</string>
+    <string name="name">Zeeshan</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+        Hi, my name is Zeeshan.
+        \n\nI love fish.
+        \n\nThe kind that is alive and swim in an aquarium or river, or a lake, and definitely the ocean.
+        \n\nThe kind that is alive and swim in an aquarium or river, or a lake, and definitely the ocean.
+        \n\nThe kind that is alive and swim in an aquarium or river, or a lake, and definitely the ocean.
+        \n\nThe kind that is alive and swim in an aquarium or river, or a lake, and definitely the ocean.
+    </string>
+    <string name="what_is_your_nickName">What is your Nickname?</string>
+    <string name="done">Done</string>
+
 </resources>
